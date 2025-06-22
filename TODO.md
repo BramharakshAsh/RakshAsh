@@ -1,0 +1,2 @@
+- [ ] Add UI improvements
+- [ ] Finalize DB memory store
